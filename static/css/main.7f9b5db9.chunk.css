@@ -1,0 +1,45 @@
+.root {
+  margin-right: 200px;
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.hidden {
+  visibility: hidden;
+  overflow: hidden;
+  height: 0;
+}
+
+.item {
+  display: flex;
+  font-size: 12px;
+  color: #99999A;
+}
+
+.title {
+  text-decoration: none;
+  color: #99999A;
+  white-space: nowrap;
+}
+
+.active {
+  font-weight: bold;
+}
+
+.arrow {
+  padding: 0 12px;
+  white-space: nowrap;
+  display: flex;
+  align-items: center,
+}
+
+.dots {
+  padding: 0 12px;
+}
+
+.fake-dots {
+  display: flex;
+}
+
+
+/*# sourceMappingURL=main.7f9b5db9.chunk.css.map*/
